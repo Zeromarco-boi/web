@@ -1,0 +1,26 @@
+/* Estilp del titulo principal de arriba */
+#principal {
+	/* Tamaño de letra */
+	font-size: 50px;
+	/* Fondo de letra */
+	background-color:#0FFF45;
+	/* Color de letra*/
+	color:#7416AD;
+	text-align: center;
+	background-image: url("imagen/creeper2.png");
+ 
+}
+/*Atributo id*/
+
+#mitexto {
+	/*Tamañno de letra*/
+	font-size: 35px;
+	/* fondo de letra*/
+	/* color de letra*/
+	color:#055d73;
+	text-align: center;
+}
+
+html{
+	background-color: #d1f6ff
+}
